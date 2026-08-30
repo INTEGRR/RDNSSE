@@ -1,0 +1,20 @@
+{
+  "event": {
+    "name": "Dorfflohmarkt Barkhausen",
+    "date": "2026-09-13",
+    "start": "10:00",
+    "end": "16:00",
+    "listUrl": "https://maps.app.goo.gl/zTjbDCyzqgS9eXrF8"
+  },
+  "demo": true,
+  "stands": [
+    { "id": "d1", "name": "Hof Meierhoff", "lat": 52.2489, "lng": 8.8742, "note": "Kindersachen, Spielzeug" },
+    { "id": "d2", "name": "Scheune Brinkmann", "lat": 52.2503, "lng": 8.8791, "note": "Werkzeug & Antikes" },
+    { "id": "d3", "name": "Garten Nolte", "lat": 52.2471, "lng": 8.8806, "note": "Bücher, Platten" },
+    { "id": "d4", "name": "Hof Siekmann", "lat": 52.2452, "lng": 8.8769, "note": "Kaffee & Kuchen" },
+    { "id": "d5", "name": "Garage Wehmeier", "lat": 52.2466, "lng": 8.8725, "note": "Hausrat" },
+    { "id": "d6", "name": "Hof Depping", "lat": 52.2497, "lng": 8.8698, "note": "Fahrräder, Deko" },
+    { "id": "d7", "name": "Wiese am Bach", "lat": 52.2440, "lng": 8.8802, "note": "Grillstand" },
+    { "id": "d8", "name": "Hof Lohmann", "lat": 52.2513, "lng": 8.8752, "note": "Klamotten, Retro" }
+  ]
+}
